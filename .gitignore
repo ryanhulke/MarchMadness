@@ -1,1 +1,5 @@
-data_2025/
+data_2025/*.csv
+data_2025/kp/
+login.txt
+__pycache__/
+model/saved_tabpfn.pkl
